@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/kotlin/desktop/main/
+/build/classes/kotlin/native/main/klib/
+/build/js/packages/Logging-js-legacy/kotlin/
